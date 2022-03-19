@@ -1,7 +1,10 @@
 # Tarea 3 INFO147 Computación Científica con Python
 ## Los K-vecinos
 
-### tags: KNN, Cython, Optimización, sklearn
+### Integrantes
 
-Fernando Ruiz @fernando479
-José Vásquez @hiawvp
+- Fernando Ruiz [@fernando479](https://github.com/fernando479)
+- José Vásquez [@hiawvp](https://github.com/hiawvp)
+
+
+### tags: KNN, Cython, Optimización, sklearn
